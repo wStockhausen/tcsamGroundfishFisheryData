@@ -1,0 +1,9 @@
+Package: tcsamGroundfishFisheryData
+Type: Package
+Title: Functions to process NMFS groundfish fishery observer data for the Tanner crab assessment.
+Version: 0.0.1
+Date: 2014-11-05
+Author: William Stockhausen
+Maintainer: William Stockhausen <william.stockhausen@noaa.gov>
+Description: Functions to process NMFS groundfish fishery observer data for the Tanner crab assessment.
+License: MIT
